@@ -10,6 +10,8 @@ public class sample01 {
 //=======
 		System.out.println("鈴木愛菜＆芦田福");
 //>>>>>>> branch 'master' of https://github.com/fight9927/test02.git
+	
+		System.out.println("犬");
 	}
 
 }
