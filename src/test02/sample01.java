@@ -8,7 +8,7 @@ public class sample01 {
 
 		System.out.println("鈴木愛菜＆芦田福");
 
-
+		System.out.println("24");
 	}
 
 }
