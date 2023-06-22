@@ -7,8 +7,8 @@ public class sample02 {
 		System.out.println("どすこい！貴乃花親方");
 
 		System.out.println("鈴木愛菜＆芦田福");
-
-
+		
+		System.out.println("abababababababababab");
 	}
 
 }
