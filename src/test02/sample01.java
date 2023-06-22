@@ -6,10 +6,6 @@ public class sample01 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("どすこい！貴乃花親方");
 
-		System.out.println("どすこい！新井瑞季だよ");
-
-		System.out.println("鈴木愛菜＆芦田福");
-
 		System.out.println("諸見里");
 		
 		System.out.println("ギリギリス");
