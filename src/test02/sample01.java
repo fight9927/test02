@@ -8,7 +8,10 @@ public class sample01 {
 
 		System.out.println("諸見里");
 		
+
 		System.out.println("ギリギリス");
+		System.out.println("プーさん");
+
 	}
 
 }
